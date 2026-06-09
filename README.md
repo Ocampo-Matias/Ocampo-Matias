@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hola, soy Matías Ocampo 
 
-<!--
-**Ocampo-Matias/Ocampo-Matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Informática en la UNAHUR, enfocado en desarrollo backend, ciberseguridad y desarrollo web.
 
-Here are some ideas to get you started:
+## 🚀 Actualmente trabajando en
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### FlawsFind
+Escáner de vulnerabilidades web orientado a usuarios no técnicos.
+
+**Stack:** Django · Django REST Framework · Celery · OWASP ZAP · React
+
+Objetivo: hacer que los resultados de un escaneo de seguridad 
+sean interpretables sin conocimientos técnicos previos.
+
+## 🛠 Tecnologías
+
+### Backend
+- Python · Django · Django REST Framework
+- Java
+- PHP (básico)
+
+### Frontend
+- JavaScript
+- React
+- HTML
+- CSS
+
+### Herramientas
+- Git
+- Docker
+- SQLite
+
+## 🎯 Intereses
+
+- Backend con Python y Django
+- Ciberseguridad web
+- Diseño de sistemas
+
+## 📚 Formación
+
+- Licenciatura en Informática — UNAHUR
+- Técnico en Informática Personal y Profesional
+
+## 📫 Contacto
+
+- LinkedIn: linkedin.com/in/matias-ocampo-0b12aa28b
